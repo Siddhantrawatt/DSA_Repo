@@ -1,9 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums):
-        added = []
-        for num in nums:
-            if num in added:
-                return True
-            added.append(num)
-
-        return False
+        if len(nums) != len(set(nums)):
+            return True
+        else:
+            return False
