@@ -16,7 +16,8 @@ This folder contains all array-based DSA problems I have practiced.
 * longest_consecutive.py
 * max_product_subarray.py
 * circular_subarray_sum.py
-
+* min_sorted_array.py
+* single_one.py
 ---
 
 ## Concepts Learned
@@ -25,6 +26,7 @@ This folder contains all array-based DSA problems I have practiced.
 * Prefix/suffix logic
 * Kadane’s Algorithm
 * Greedy approach
+* XOR importance
 
 ---
 
