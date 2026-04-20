@@ -18,6 +18,8 @@ This folder contains all array-based DSA problems I have practiced.
 * circular_subarray_sum.py
 * min_sorted_array.py
 * single_one.py
+* max_avg_subarray.py
+* subarray_sum_equalsk.py
 ---
 
 ## Concepts Learned
