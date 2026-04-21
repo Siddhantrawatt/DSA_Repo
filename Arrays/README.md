@@ -20,6 +20,8 @@ This folder contains all array-based DSA problems I have practiced.
 * single_one.py
 * max_avg_subarray.py
 * subarray_sum_equalsk.py
+* plus_one.py
+* merge_sorted_array.py
 ---
 
 ## Concepts Learned
